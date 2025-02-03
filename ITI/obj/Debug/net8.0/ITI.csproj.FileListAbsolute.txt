@@ -1,0 +1,14 @@
+C:\Users\al lewaa\source\repos\ITI\ITI\bin\Debug\net8.0\ITI.exe
+C:\Users\al lewaa\source\repos\ITI\ITI\bin\Debug\net8.0\ITI.deps.json
+C:\Users\al lewaa\source\repos\ITI\ITI\bin\Debug\net8.0\ITI.runtimeconfig.json
+C:\Users\al lewaa\source\repos\ITI\ITI\bin\Debug\net8.0\ITI.dll
+C:\Users\al lewaa\source\repos\ITI\ITI\bin\Debug\net8.0\ITI.pdb
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.AssemblyInfoInputs.cache
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.AssemblyInfo.cs
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.csproj.CoreCompileInputs.cache
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.dll
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\refint\ITI.dll
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.pdb
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ITI.genruntimeconfig.cache
+C:\Users\al lewaa\source\repos\ITI\ITI\obj\Debug\net8.0\ref\ITI.dll
